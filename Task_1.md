@@ -1,7 +1,7 @@
 # Question 1
 
 ## Correct code:
-
+```
 include <stdio.h>
 int main()
 {
@@ -12,12 +12,12 @@ int main()
      printf(" \n The Last Digit of a Given Number %d = %d", number,LD);
      return 0;
  }
- 
+ ```
  
  # Question 2
  
  ## Correct code:
- 
+ ```
 int sumcal(int len, int* arr, int value)
 {
     int sum = 0;
@@ -28,13 +28,13 @@ int sumcal(int len, int* arr, int value)
     }
     return sum;
 }
-
+```
 
 
 # Question 3
 
 ## Correct cade:
-
+```
 #include <stdio.h>
 int main()
 {
@@ -55,13 +55,15 @@ printf("\n");
 }
 return 0;
 }
+```
 
 # Question 4
 
 ## Correct code:
-
+```
 #include <stdio.h>
 void main() {
 char a='A';
 a>10?printf("Yes"):printf("No");
 }
+```
