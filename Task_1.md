@@ -33,7 +33,7 @@ int sumcal(int len, int* arr, int value)
 
 # Question 3
 
-## Correct cade:
+## Correct code:
 ```
 #include <stdio.h>
 int main()
